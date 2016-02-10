@@ -1,0 +1,35 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 07-feb-2016, 20:13:49
+    Author     : trianaandaluciaprietogalvan
+*/
+
+#color-nav{
+    background-color: #F9FBFD;
+}
+
+#color-titulo{
+    color: #3467AE;
+}
+
+#titulo{
+    font-size: 30px;
+}
+
+#btn-subir-archivo{
+    margin-left: 30px;
+}
+
+.numero2{
+    margin-left: -690px;
+    display: inline;
+}
+
+.numero1{
+    margin-left: -540px;
+    display: inline;
+}
